@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github-username.github.io/nome-do-repositorio",
+  "homepage": "https://github.com/Willwss/ListaDeTarefas/tree/master",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
